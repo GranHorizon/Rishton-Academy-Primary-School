@@ -11,7 +11,7 @@
         <div class="mb-3">
             <a href="../adminhome.php" class="btn btn-primary">Back to Dashboard</a>
             <a href="addteacherassistant.php" class="btn btn-primary">Add a Teacher Assistant</a>
-            <a href="seeteacherassistants.php" class="btn btn-primary">See all Teacher Assistants</a>
+            <a href="viewteacherassistant.php" class="btn btn-primary">See all Teacher Assistants</a>
             <a href="deleteteacherassistant.php" class="btn btn-primary">Delete a Teacher Assistant</a>
             <a href="updateteacherassistant.php" class="btn btn-primary">Update a Teacher Assistant</a>
         </div>
